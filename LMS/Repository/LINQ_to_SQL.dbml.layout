@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="LINQ_to_SQL">
+  <DataContextMoniker Name="/LINQ_to_SQLDataContext" />
+  <nestedChildShapes>
+    <classShape Id="156ba56f-ea80-4692-b1d0-198c15dabf7b" absoluteBounds="5.375, 1.25, 2, 1.9631982421875">
+      <DataClassMoniker Name="/LINQ_to_SQLDataContext/tbl_BookHistoryModel" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4c25e0eb-e6b7-4a13-86df-92cf8b315e97" absoluteBounds="5.39, 1.71, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c619a3c1-ce9d-4fa2-a9cd-7f152db3dda5" absoluteBounds="1.125, 3.5, 2, 1.9631982421875">
+      <DataClassMoniker Name="/LINQ_to_SQLDataContext/tbl_BookModel" />
+      <nestedChildShapes>
+        <elementListCompartment Id="dc565c70-ab4d-4469-b4b3-d6aad07f55d7" absoluteBounds="1.1400000000000001, 3.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c0df9b59-310b-469d-9478-dbc928b16932" absoluteBounds="3, 1.125, 2, 1.9631982421875">
+      <DataClassMoniker Name="/LINQ_to_SQLDataContext/tbl_UserModel" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f59265d1-52fa-4326-8d73-9d6ee7a1c3f2" absoluteBounds="3.015, 1.585, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
